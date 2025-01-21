@@ -12,5 +12,6 @@
 ### Use
 + [OpenCore](https://github.com/acidanthera/opencorepkg/releases) v1.0.3
 + [Wireless-USB-OC-Big-Sur-Adapter](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V17) v17
++ [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 20240004
 
 ![Overview](overview.png)
