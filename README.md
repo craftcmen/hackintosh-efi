@@ -8,6 +8,7 @@
 ### Testing
 + macOS Sonoma 14.7.2
 + macOS Sequoia 15.2
++ macOS Sequoia 15.3.1
 
 ### Use
 + [OpenCore](https://github.com/acidanthera/opencorepkg/releases) v1.0.3
